@@ -28,4 +28,4 @@
 >
 >
 > ## ***List of supported games in UnknownsHub***
-> *Tapping Legends X*
+> + *Tapping Legends X*
