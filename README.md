@@ -29,3 +29,4 @@
 >
 > ## ***List of supported games in UnknownsHub***
 > + *Tapping Legends X*
+>> + v1.11 | Has autoclicker, autorebirth, autohatch, teleports and misc
